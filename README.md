@@ -32,6 +32,6 @@ F1_2D: frame interpolation on 2D data
 testBVH: read bvh file and extract the xyz axis of all the joints over the whole video, and further render the motion
 
 ## Experiments
-test4data: comparative exp against weighted PCA
+test4data: comparative exp against weighted PCA. Change the 'data_length' to evaluate the performance with increasing missing frames
 
 test_marker_num: evaluate performance with increasing missing markers
