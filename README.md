@@ -34,4 +34,4 @@ testBVH: read bvh file and extract the xyz axis of all the joints over the whole
 ## Experiments
 test4data: comparative exp against weighted PCA
 
-test_marker_num: evaluate performance with increasing blank frames
+test_marker_num: evaluate performance with increasing missing markers
